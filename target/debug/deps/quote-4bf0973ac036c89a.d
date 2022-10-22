@@ -1,0 +1,13 @@
+D:\Doc\repo\rust\hello\target\debug\deps\quote-4bf0973ac036c89a.rmeta: C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\lib.rs C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\ext.rs C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\format.rs C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\ident_fragment.rs C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\to_tokens.rs C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\runtime.rs C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\spanned.rs
+
+D:\Doc\repo\rust\hello\target\debug\deps\libquote-4bf0973ac036c89a.rlib: C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\lib.rs C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\ext.rs C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\format.rs C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\ident_fragment.rs C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\to_tokens.rs C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\runtime.rs C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\spanned.rs
+
+D:\Doc\repo\rust\hello\target\debug\deps\quote-4bf0973ac036c89a.d: C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\lib.rs C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\ext.rs C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\format.rs C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\ident_fragment.rs C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\to_tokens.rs C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\runtime.rs C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\spanned.rs
+
+C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\lib.rs:
+C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\ext.rs:
+C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\format.rs:
+C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\ident_fragment.rs:
+C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\to_tokens.rs:
+C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\runtime.rs:
+C:\Users\PC\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\spanned.rs:
