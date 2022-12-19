@@ -41,4 +41,7 @@ fn main() {
     d1.eat(String::from("狗粮"));
     d1.live(String::from("狗窝"));
     d1.speak(String::from("汪汪"));
+
+    panic!("error occured!");
+    println!("hello rust!");
 }

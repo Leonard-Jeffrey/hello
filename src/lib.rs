@@ -16,6 +16,7 @@ pub struct Person {
     Gender: String,
 }
 
+#[derive(Debug, PartialEq, Serialize, Deserialize)]
 pub struct Dog {
     Name: String,
     Age: u8,
