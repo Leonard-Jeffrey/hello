@@ -42,6 +42,13 @@ fn main() {
     d1.live(String::from("狗窝"));
     d1.speak(String::from("汪汪"));
 
-    panic!("error occured!");
-    println!("hello rust!");
+    allow_w1(&p1);
+    allow_w2(&p1);
+    allow_w3(&p1, &p1);
+    allow_w4(&p1, &p1);
+
+    allow_wel1(&p1);
+    allow_wel2(&p1);
+    allow_wel3(&p1, &d1);
+    allow_wel4(&p1, &d1);
 }
